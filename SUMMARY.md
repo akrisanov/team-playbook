@@ -4,7 +4,7 @@
 
 ## ☯️ Принципы <a href="#principles" id="principles"></a>
 
-* [🎴 Асинхронная работа](principles/asinkhronnaya-rabota.md)
+* [🎴 Асинхронная работа](principles/async-work.md)
 
 ## 🤝 Коммуникация <a href="#communication" id="communication"></a>
 
@@ -13,7 +13,7 @@
 
 ## 🏗️ Инженерные практики <a href="#engineering-practices" id="engineering-practices"></a>
 
-* [🚤 Скорость разработки](engineering-practices/skorost-razrabotki.md)
+* [🚤 Скорость разработки](engineering-practices/developer-velocity.md)
 
 ## 👯 Команда <a href="#team" id="team"></a>
 
